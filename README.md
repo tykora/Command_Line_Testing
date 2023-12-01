@@ -9,6 +9,7 @@ This is a bad repository but a good D&D stat block
 
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
+|10|10|10|10|10|10|
 
 
 </body>
